@@ -1,0 +1,32 @@
+body {
+  background-color: gainsboro;
+  font-family: "Inconsolata", monospace;
+}
+
+h1 {
+  text-align: center;
+}
+
+h2 {
+  text-align: center;
+  color: #663399;
+}
+
+table {
+  margin-left: auto;
+  margin-right: auto;
+  border: 2px solid darkorchid;
+  width: 650px;
+}
+
+thead {
+  background-color: plum;
+}
+
+td {
+  border-top: 1px solid darkorchid;
+}
+
+code {
+  background-color: beige;
+}
